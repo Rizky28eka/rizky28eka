@@ -20,8 +20,10 @@
 
 ### :man_technologist: About Me :
 
-I am a software developer with strong problem solving skills and proven experience in creating and designing software in a test driven environment.
-
+- 🔭 &nbsp;I’m currently working on something cool
+- 🌱 &nbsp;I’m currently learning Flutter, Laravel
+- 💬  Ask me about anything related to Android Developer & Web Developer
+- 📫 &nbsp;How to reach me: [@rzkyhryd._](https://instagram.com/rzkyhryd._)
 ---
 
 ### :🛠 Languages and Tools :
