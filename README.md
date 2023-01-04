@@ -34,6 +34,8 @@
 
 ### :fire: My Stats :
   
+<td valign="top" width="50%">
+
 #### 🏊‍♂️ Weekly Development Breakdown
 
 ![light](https://raw.githubusercontent.com/Rizky28eka/Rizky28eka/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
