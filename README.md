@@ -22,7 +22,7 @@
 - 🔭 I’m currently working on **Software Developer**
 
 - 📫 How to reach me <a href="https://wa.me/6285726059351/">
-      <img src="https://img.shields.io/badge/Whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
+      <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
 
 - ⚡ Fun fact **I am Funny**
 
