@@ -33,6 +33,14 @@
 ---
 
 ### :fire: My Stats :
+  
+#### 🏊‍♂️ Weekly Development Breakdown
+
+![light](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats.svg#gh-light-mode-only)
+
+![dark](https://raw.githubusercontent.com/tw93/tw93/master/images/wakatime_weekly_language_stats_black.svg#gh-dark-mode-only)
+
+</td>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rizky28eka&theme=dark&background=000000)](https://git.io/streak-stats)
 
