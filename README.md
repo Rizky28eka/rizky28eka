@@ -19,12 +19,8 @@
 ---
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working on **Software Developer**
 
-- 📫 How to reach me <a href="https://wa.me/6285726059351/">
-      <img src="https://img.shields.io/badge/Whatsapp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-
-- ⚡ Fun fact **I am Funny**
+I am a software developer with strong problem solving skills and proven experience in creating and designing software in a test driven environment.
 
 ---
 
