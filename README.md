@@ -13,5 +13,5 @@
   </a>
 </div>
 <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username" width="100"/>
+  <img src="https://komarev.com/ghpvc/?username=Rizky28eka" width="100"/>
 </div>
