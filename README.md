@@ -22,7 +22,7 @@
 
 - 🔭 &nbsp;I’m currently working on something cool
 - 🌱 &nbsp;I’m currently learning Flutter, Laravel
-- 💬  Ask me about anything related to Android Developer & Web Developer
+- 💬  Ask me about anything related to Android & Web Developer
 - 📫 &nbsp;How to reach me: [@rzkyhryd._](https://instagram.com/rzkyhryd._) in Instagram
 ---
 
