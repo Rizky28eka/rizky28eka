@@ -5,13 +5,13 @@
 </div>
 
 <div id="badges" align= "center" >
-  <a href="www.linkedin.com/in/rizky28eka">
+  <a href="[www.linkedin.com/in/rizky28eka](https://linkedin.com/in/rizky28eka)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="www.instagram.com/rzkyhryd._">
+  <a href="[www.instagram.com/rzkyhryd._](https://instagram.com/rzkyhryd._)">
     <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="twitter.com/duaribuempaat">
+  <a href="[twitter.com/duaribuempaat](https://twitter.com/duaribuempaat)">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
