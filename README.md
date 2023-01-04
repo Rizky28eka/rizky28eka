@@ -25,6 +25,6 @@
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Rizky28eka&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizky28eka&show_icons=true&locale=en" alt="rizky28eka" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rizky28eka&" alt="rizky28eka" /></p>
