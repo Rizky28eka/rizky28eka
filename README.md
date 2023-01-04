@@ -21,7 +21,8 @@
 ### :man_technologist: About Me :
 - 🔭 I’m currently working on **Software Developer**
 
-- 📫 How to reach me **eka28rizky03haryadi04@gmail.com**
+- 📫 How to reach me <a href="https://www.linkedin.com/in/rizky28eka/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 
 - ⚡ Fun fact **I am Funny**
 
