@@ -5,7 +5,7 @@
 </div>
 
 <div id="badges" align= "center" >
-  <a href="[www.linkedin.com/in/rizky28eka](https://linkedin.com/in/rizky28eka)">
+  <a href="www.linkedin.com/in/rizky28eka">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="[www.instagram.com/rzkyhryd._](https://instagram.com/rzkyhryd._)">
