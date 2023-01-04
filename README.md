@@ -24,13 +24,6 @@
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/duaribuempaat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="duaribuempaat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rizky28eka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rizky28eka" height="30" width="40" /></a>
-<a href="https://instagram.com/rzkyhryd._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rzkyhryd._" height="30" width="40" /></a>
-</p>
-
 ---
 
 ### :🛠 Languages and Tools :
