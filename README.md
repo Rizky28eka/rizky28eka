@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RIZKY EKA HARYADI</h1>
 <h3 align="center">Im Software Developer From INDONESIAN</h3>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="125"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/rizky28eka/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
