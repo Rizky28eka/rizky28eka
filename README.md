@@ -19,7 +19,7 @@
 ---
 
 ### :man_technologist: About Me :
-- 🔭 I’m currently working on **Mobile Developers**
+- 🔭 I’m currently working on **Software Developer**
 
 - 📫 How to reach me **eka28rizky03haryadi04@gmail.com**
 
