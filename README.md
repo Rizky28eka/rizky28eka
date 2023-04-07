@@ -33,7 +33,7 @@
 
 ### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizky28eka&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bagussatoto&theme=one-dark-pro&hide_border=true&border_radius=20&fire=EB5454)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&layout=compact&theme=vision-friendly-dark)](https://github.com/Rizky28eka/github-readme-stats)
 
