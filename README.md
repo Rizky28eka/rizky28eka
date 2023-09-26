@@ -77,4 +77,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Rizky28eka&icon=1&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizky28eka&theme=dark&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
