@@ -1,3 +1,21 @@
+<h1 align="center">Hi 👋, I'm RIZKY EKA HARYADI</h1>
+<h3 align="center">Im Software Developer From INDONESIA</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/rizky28eka/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.instagram.com/rzkyhryd._/">
+      <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    </a>
+    <a href="https://twitter.com/duaribuempaat">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=rizky28eka&style=flat-square&color=blue" alt=""/>
+  </div>
+
 # 💫 About Me:
 🔭 I'm currently cooking up some cool stuff in mobile app development.<br>👯 I'm totally down to collaborate, especially in the mobile app game.<br>🤝 I could use a hand with leveling up my UI/UX design skills for my project.<br>🌱 Right now, I'm digging into the latest trends for making slick user interfaces.<br>💬 Feel free to hit me up about mobile app development hacks or nailing that UI/UX vibe.<br>⚡ Fun fact: I've been hustling on my favorite mobile apps since my high school days.
 
