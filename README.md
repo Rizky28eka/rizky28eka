@@ -33,7 +33,7 @@
 
 This README shows my GitHub stats, including my Wakatime stats, my GitHub stats, and my top languages.
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Rizky28eka=ffflabs)](https://github.com/Rizky28eka/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Rizky28eka=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizky28eka&show_icons=true&theme=radical)
 
