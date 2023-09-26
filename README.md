@@ -31,19 +31,10 @@
 ----
 ### My GitHub Stats
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?Rizky28eka=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rizky28eka&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&layout=compact&theme=vision-friendly-dark)](https://github.com/Rizky28eka/github-readme-stats)
-
-[View my GitHub profile](https://github.com/Rizky28eka)
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+<a href="https://github.com/Rizky28eka/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rizky28eka" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/Rizky28eka/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizky28eka&layout=compact&langs_count=8&card_width=320" />
 </a>
 
