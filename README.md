@@ -31,7 +31,6 @@
 
 ### My GitHub Stats
 
-
 <div class="github-stats">
   <a href="https://github.com/Rizky28eka/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rizky28eka" />
@@ -39,8 +38,10 @@
   <a href="https://github.com/Rizky28eka/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rizky28eka&layout=compact&langs_count=8&card_width=320" />
   </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&show_icons=true&theme=dark#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&show_icons=true&theme=default#gh-light-mode-only" />
+  </a>
 </div>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
