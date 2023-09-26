@@ -4,7 +4,9 @@
 
 <details>
 <summary>🌐 Socials</summary>
-
+  
+<br> <!-- Ini adalah baris kosong untuk memberikan jarak -->
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rzkyhryd._)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizky28eka)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12039478)
@@ -74,8 +76,10 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
 </details>
+<details>
+<summary>📊 GitHub Stats</summary>
 
-# 📊 GitHub Stats:
+<br> <!-- Ini adalah baris kosong untuk memberikan jarak -->
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
@@ -89,5 +93,5 @@
   </div>
 </div>
 
-
+</details>
 
