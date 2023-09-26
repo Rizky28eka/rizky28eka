@@ -2,10 +2,20 @@
 🔭 I'm currently cooking up some cool stuff in mobile app development.<br>👯 I'm totally down to collaborate, especially in the mobile app game.<br>🤝 I could use a hand with leveling up my UI/UX design skills for my project.<br>🌱 Right now, I'm digging into the latest trends for making slick user interfaces.<br>💬 Feel free to hit me up about mobile app development hacks or nailing that UI/UX vibe.<br>⚡ Fun fact: I've been hustling on my favorite mobile apps since my high school days.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rzkyhryd._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizky28eka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12039478) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iwillyousomuch) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/duaribuempaat) 
+<details>
+<summary>🌐 Socials</summary>
 
-# 💻 Tech Stack:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rzkyhryd._)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rizky28eka)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12039478)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iwillyousomuch)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/duaribuempaat)
+
+</details>
+
+<details>
+<summary>💻 Tech Stack</summary>
+
 #### Programming Languages
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
@@ -25,7 +35,7 @@
 #### Mobile Development
 ![Android](https://img.shields.io/badge/android-%2320232a.svg?style=plastic&logo=android&logoColor=%a4c639)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white)
-![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-%2320232a.svg?style=plastic&logo=apple&logoColor=white)
 
 #### Design and Multimedia
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white)
@@ -44,7 +54,7 @@
 
 #### Version Control
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)
 
 #### DevOps and Tools
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
@@ -63,18 +73,21 @@
 ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
+</details>
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rizky28eka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rizky28eka&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizky28eka&theme=dark&hide_border=false" alt="GitHub Streak" width="350"/>
+  </div>
+  <div style="flex: 1;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="350"/>
+  </div>
+</div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rizky28eka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Rizky28eka&icon=1&color=12)](https://visitcount.itsvg.in)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rizky28eka&theme=dark&hide_border=true&border_radius=4.3&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=300&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
