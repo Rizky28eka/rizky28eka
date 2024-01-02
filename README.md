@@ -100,9 +100,9 @@
 <br> <!-- Ini adalah baris kosong untuk memberikan jarak -->
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
+<!--   <div style="flex: 1;">
     <img src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350"/>
-  </div>
+  </div> -->
   <div style="flex: 1;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizky28eka&theme=dark&hide_border=false" alt="GitHub Streak" width="350"/>
   </div>
