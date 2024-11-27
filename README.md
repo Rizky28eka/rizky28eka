@@ -96,20 +96,146 @@
 </details>
 <details>
 <summary>📊 GitHub Stats</summary>
+<br>
 
-<br> <!-- Ini adalah baris kosong untuk memberikan jarak -->
-
-<div style="display: flex; justify-content: space-between;">
-<!--   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="350"/>
-  </div> -->
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rizky28eka&theme=dark&hide_border=false" alt="GitHub Streak" width="350"/>
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="350"/>
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <!-- GitHub Stats -->
+    <td align="center">
+      <img 
+           src="https://github-readme-stats.vercel.app/api?username=Rizky28eka&theme=dark&hide_border=false&include_all_commits=true&count_private=true" 
+           alt="GitHub Stats" 
+           width="200"
+      />
+    </td>
+    <!-- GitHub Streak -->
+    <td align="center">
+      <img 
+           src="https://github-readme-streak-stats.herokuapp.com/?user=Rizky28eka&theme=dark&hide_border=false" 
+           alt="GitHub Streak" 
+           width="200"
+      />
+    </td>
+    <!-- Top Languages -->
+    <td align="center">
+      <img 
+           src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rizky28eka&theme=dark&hide_border=false&layout=compact&langs_count=8" 
+           alt="Top Languages" 
+           width="200"
+      />
+    </td>
+    <!-- Contribution Stats -->
+    <td align="center">
+      <img 
+           src="https://github-contributor-stats.vercel.app/api?username=Rizky28eka&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+           alt="Contribution Stats" 
+           width="200"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- GitHub Trophies -->
+    <td align="center">
+      <img 
+           src="https://github-profile-trophy.vercel.app/?username=Rizky28eka&theme=darkhub&no-frame=true&margin-w=5&margin-h=5&row=1&column=4" 
+           alt="GitHub Trophies" 
+           width="200"
+      />
+    </td>
+    <!-- Activity Graph -->
+    <td align="center">
+      <img 
+           src="https://github-readme-activity-graph.vercel.app/graph?username=Rizky28eka&theme=react-dark&hide_border=false" 
+           alt="Activity Graph" 
+           width="200"
+      />
+    </td>
+    <!-- Commits Per Hour -->
+    <td align="center">
+      <img 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Rizky28eka&theme=github_dark" 
+           alt="Commits Per Hour" 
+           width="200"
+      />
+    </td>
+    <!-- Stars and Forks -->
+    <td align="center">
+      <img 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rizky28eka&theme=github_dark" 
+           alt="Stars and Forks" 
+           width="200"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- Most Commits -->
+    <td align="center">
+      <img 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rizky28eka&theme=github_dark" 
+           alt="Most Commits" 
+           width="200"
+      />
+    </td>
+    <!-- Stars Received -->
+    <td align="center">
+      <img 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rizky28eka&theme=github_dark" 
+           alt="Stars Received" 
+           width="200"
+      />
+    </td>
+    <!-- Pinned Repository -->
+    <td align="center">
+      <img 
+           src="https://github-readme-stats.vercel.app/api/pin/?username=Rizky28eka&repo=your-repo-name&theme=dark" 
+           alt="Pinned Repository" 
+           width="200"
+      />
+    </td>
+    <!-- Followers -->
+    <td align="center">
+      <img 
+           src="https://img.shields.io/github/followers/Rizky28eka?style=social" 
+           alt="Followers" 
+           width="200"
+      />
+    </td>
+  </tr>
+  <tr>
+    <!-- Forked Repositories -->
+    <td align="center">
+      <img 
+           src="https://img.shields.io/github/forks/Rizky28eka/TrainTicketBuyingApp-UI?style=social" 
+           alt="Forked Repositories" 
+           width="200"
+      />
+    </td>
+    <!-- Profile Views -->
+    <td align="center">
+      <img 
+           src="https://komarev.com/ghpvc/?username=Rizky28eka&label=Profile%20Views&color=brightgreen&style=flat-square" 
+           alt="Profile Views" 
+           width="200"
+      />
+    </td>
+    <!-- Contributions Chart -->
+    <td align="center">
+      <img 
+           src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rizky28eka&theme=github_dark" 
+           alt="Contributions Chart" 
+           width="200"
+      />
+    </td>
+    <!-- Stars -->
+    <td align="center">
+      <img 
+           src="https://img.shields.io/github/stars/Rizky28eka/TrainTicketBuyingApp-UI?style=social" 
+           alt="Stars" 
+           width="200"
+      />
+    </td>
+  </tr>
+</table>
 
 </details>
 
