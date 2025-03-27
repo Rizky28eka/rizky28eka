@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+Rizky+Eka+Haryadi's+Tech+Universe+🌟;📱+Crafting+Innovative+Mobile+Apps+and+Designs+🎨;💡+Empowering+Ideas+with+Technology+and+Creativity+✨" alt="Header Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=0D6EFD&center=true&vCenter=true&width=900&height=80&lines=🚀+Welcome+to+Rizky+Eka+Haryadi's+Tech+Universe+🌟;💻+Crafting+Innovative+Software+and+Slicing+Designs+from+Dribbble+🎨" alt="Header Typing Animation">
 </p>
 
 ---
 
 <div align="center">
-  <h2 align="center">👋 A Warm Welcome</h2>
+  <h2 align="center">👋 Welcome to My World</h2>
   <blockquote align="center">
     <em>"Code is not just a tool; it's a canvas where innovation meets creativity."</em>
   </blockquote>
-  <p align="center">📱 <strong>Mobile App Developer</strong> • 🎨 <strong>UI/UX Designer</strong> • 🤖 <strong>AI Enthusiast</strong> • 🚀 <strong>Tech Visionary</strong></p>
+  <p align="center">💻 <strong>Software Developer</strong> • 🎨 <strong>Dribbble Design Slicer</strong> • 🤖 <strong>AI Enthusiast</strong> • 🚀 <strong>Tech Visionary</strong></p>
 </div>
 
 ---
@@ -38,16 +38,16 @@
   <h2>🛠️ Areas of Expertise</h2>
   <p>
     <a href="#">
-      <img src="https://img.shields.io/badge/Android-Expert-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Frontend-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/iOS-Developer-000000?style=for-the-badge&logo=ios&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Backend-Developer-000000?style=for-the-badge&logo=node.js&logoColor=white"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/Flutter-Specialist-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Dribbble-Design%20Slicing-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white"/>
     </a>
     <a href="#">
-      <img src="https://img.shields.io/badge/UI%2FUX-Designer-FF6F61?style=for-the-badge&logo=adobe&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Fullstack-Engineer-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
     </a>
   </p>
 </div>
@@ -59,26 +59,27 @@
 
 | **Category**          | **Technologies**                                                                                   | **Tools**                                                                 |
 |------------------------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| **Programming**        | C, C#, C++, Java, Dart, JavaScript, Kotlin, Swift, TypeScript, PHP, GraphQL, Bash                 | Git, Postman, Jira, Notion, Arduino, Cisco, Trello                       |
-| **Frontend**           | HTML5, React, Vue.js, Next.js, Bootstrap, TailwindCSS, Vite, WordPress                           | Figma, Adobe XD, Photoshop, Illustrator, After Effects, Canva, Sketch    |
-| **Backend & Mobile**   | .NET, Laravel, Apache, Node.js, Flutter, React Native                                            | AWS, Docker, Kubernetes, Heroku, Netlify, Vercel, GitHub Actions         |
+| **Programming**        | JavaScript, TypeScript, Python, Dart, Swift, Kotlin, PHP                                         | Git, Postman, Jira, Notion, Figma, Dribbble                              |
+| **Frontend**           | HTML5, React, Vue.js, Next.js, TailwindCSS, Bootstrap                                            | Figma, Adobe XD, Photoshop, Illustrator                                  |
+| **Backend & Mobile**   | Node.js, Express.js, Flutter, React Native                                                       | AWS, Docker, Kubernetes, Heroku, Netlify, Vercel                         |
 
 ---
-
 <div align="center">
-  <h2>📊 GitHub Insights</h2>
-
-  | **Stats**                                                                                   | **Top Languages**                                                                                 |
-  |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-  | <img src="https://github-readme-stats.vercel.app/api?username=rizky28eka&show_icons=true&theme=radical&include_all_commits=true" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky28eka&layout=compact&theme=radical" width="400"/> |
-
-  | **Streak Stats**                                                                            | **Activity Graph**                                                                                |
-  |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-  | <img src="https://streak-stats.demolab.com/?user=rizky28eka&theme=radical" width="400"/>    | <img src="https://github-readme-activity-graph.vercel.app/graph?username=rizky28eka&theme=radical" width="400"/>                |
-
-  | **Trophies**                                                                               | **Contributions**                                                                                |
-  |---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
-  | <img src="https://github-profile-trophy.vercel.app/?username=rizky28eka&theme=radical&column=7" width="400"/> | <img src="https://github-contributor-stats.vercel.app/api?username=rizky28eka&theme=radical" width="400"/>                       |
+  <h2>📊 GitHub Analytics</h2>
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://github-readme-stats.vercel.app/api?username=rizky28eka&show_icons=true&theme=radical" alt="GitHub Stats" width="100%">
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizky28eka&layout=compact&theme=radical" alt="Top Languages" width="100%">
+      </td>
+      <td align="center" width="25%">
+        <img src="https://github-profile-trophy.vercel.app/?username=rizky28eka&theme=radical" alt="GitHub Trophies" width="100%">
+      </td>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -92,7 +93,7 @@
 
 <div align="center">
   <h2>🎉 Fun Fact</h2>
-  <p>Did you know? I love exploring new technologies and turning ideas into reality. When I'm not coding, you can find me sketching designs or diving into sci-fi novels!</p>
+  <p>Did you know? I enjoy turning creative designs from Dribbble into functional applications. When I'm not coding, I love exploring new tech trends!</p>
 </div>
 
 ---
